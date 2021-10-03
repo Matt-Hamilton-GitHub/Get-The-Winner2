@@ -38,7 +38,6 @@ struct Candidate
     double percent = 0.0;
 	
 	string rank;//to store the rank in elections
-	vector <string> place {"First", "Second", "Third", "Fourth", "Fifth", "Sixth"};
 
 };
 
